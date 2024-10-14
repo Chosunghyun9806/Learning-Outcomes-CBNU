@@ -71,10 +71,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chosunghyun9806&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ***
-
 <div align=center>
 	<h3>🏆 Cho's git status 🏆</h3>
 	<br>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
