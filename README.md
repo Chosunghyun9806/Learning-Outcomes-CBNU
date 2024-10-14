@@ -78,7 +78,24 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
 ***
-<div align=center>
-	<h3>📈 Cho's git Table 📉</h3>
-	<br>
+<div align="center">
+    <h3>📈 Cho's git Table 📉</h3>
+    <br>
+
+| 🔥Project Directory     | 📘Contents   |🔑 Keyword   |
+|:------------: |:----------:|:------------:|
+| PJ01 | CNN Project   | CNN, Pytorch, Deep Learning |
+| PJ02 | 산업인공지능 개론 Data Analysis  | Data Analysis, Scikit-learn |
+| PJ03 | Titanic Data Analysis  | Data Analysis, Scikit-learn |
+| PJ04 | Insurance Data Analysis  | Data Analysis, Scikit-learn, Kaggle |
+| PJ05 | Hearth disease Machine Learning  | Machine Learning, Scikit-learn, Kaggle |
+| PJ06 | Hearth disease EDA  | Data Analysis, Scikit-learn, Kaggle |
+| PJ07 | Socket communication practise  | Socket, Communication |
+| PJ08 | Common data API practise  | API, requests |
+| PJ09 | 스크래치 분석  | Computer Vision, OpenCV, matplotlib |
+| PJ10 | EfficientnetV2 Train  | CNN, Pytorch, Deep Learning |
+| PJ11 | TensorRT Practise  | TensorRT, Model Optimizer |
+| PJ12 | Segment Anything Practise  | SAM, Segmentaion |
+| PJ13 | Face Landmark Detection Practise  | Face Landmark Detection, mediapipe |
+| PJ14 | Face Detection Practise  | Face Detection, mediapipe |
 </div>
