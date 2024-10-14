@@ -1,5 +1,5 @@
-# Learning-Outcomes-CBNU
-충북대 대학원 산업인공지능학과 포트폴리오
+### <div align=center>Learning-Outcomes-CBNU</div>
+### <div align=center>충북대 대학원 산업인공지능학과 포트폴리오</div>
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Sunghyun_git&fontSize=70" /)
@@ -77,3 +77,8 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
+***
+<div align=center>
+	<h3>📈 Cho's git Table 📉</h3>
+	<br>
+</div>
