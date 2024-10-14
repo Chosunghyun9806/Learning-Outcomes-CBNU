@@ -2,7 +2,7 @@
 ### <div align=center>충북대 대학원 산업인공지능학과 포트폴리오</div>
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Sunghyun_git&fontSize=70" /)
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Sunghyun_CBNU&fontSize=70" /)
 </div>
 
 ***
