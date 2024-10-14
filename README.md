@@ -79,7 +79,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chosunghyun9806)](https://github.com/Chosunghyun9806/github-readme-stats)
 ***
 <div align="center">
-    <h3>📈 Cho's git Table 📉</h3>
+    <h3>📈 Cho's Portfolio Table 📉</h3>
     <br>
 
 | 🔥Project Directory     | 📘Contents   |🔑 Keyword   |
