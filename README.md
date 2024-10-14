@@ -86,7 +86,7 @@
 |:------------: |:----------:|:------------:|
 | PJ01 | CNN Project   | CNN, Pytorch, Deep Learning |
 | PJ02 | 산업인공지능 개론 Data Analysis  | Data Analysis, Scikit-learn |
-| PJ03 | Titanic Data Analysis  | Data Analysis, Scikit-learn |
+| PJ03 | Titanic Data Analysis  | Data Analysis, Scikit-learn, Kaggle |
 | PJ04 | Insurance Data Analysis  | Data Analysis, Scikit-learn, Kaggle |
 | PJ05 | Hearth disease Machine Learning  | Machine Learning, Scikit-learn, Kaggle |
 | PJ06 | Hearth disease EDA  | Data Analysis, Scikit-learn, Kaggle |
