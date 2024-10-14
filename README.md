@@ -88,8 +88,8 @@
 | PJ02 | 산업인공지능 개론 Data Analysis  | Data Analysis, Scikit-learn |
 | PJ03 | Titanic Data Analysis  | Data Analysis, Scikit-learn, Kaggle |
 | PJ04 | Insurance Data Analysis  | Data Analysis, Scikit-learn, Kaggle |
-| PJ05 | Hearth disease Machine Learning  | Machine Learning, Scikit-learn, Kaggle |
-| PJ06 | Hearth disease EDA  | Data Analysis, Scikit-learn, Kaggle |
+| PJ05 | Heart Disease Machine Learning  | Machine Learning, Scikit-learn, Kaggle |
+| PJ06 | Heart Disease EDA  | Data Analysis, Scikit-learn, Kaggle |
 | PJ07 | Socket communication practise  | Socket, Communication |
 | PJ08 | Common data API practise  | API, requests |
 | PJ09 | 스크래치 분석 프로젝트  | Computer Vision, OpenCV, matplotlib |
