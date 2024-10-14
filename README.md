@@ -92,10 +92,16 @@
 | PJ06 | Hearth disease EDA  | Data Analysis, Scikit-learn, Kaggle |
 | PJ07 | Socket communication practise  | Socket, Communication |
 | PJ08 | Common data API practise  | API, requests |
-| PJ09 | 스크래치 분석  | Computer Vision, OpenCV, matplotlib |
+| PJ09 | 스크래치 분석 프로젝트  | Computer Vision, OpenCV, matplotlib |
 | PJ10 | EfficientnetV2 Train  | CNN, Pytorch, Deep Learning |
 | PJ11 | TensorRT Practise  | TensorRT, Model Optimizer |
 | PJ12 | Segment Anything Practise  | SAM, Segmentaion |
 | PJ13 | Face Landmark Detection Practise  | Face Landmark Detection, mediapipe |
 | PJ14 | Face Detection Practise  | Face Detection, mediapipe |
+| PJ15 | 원형 감지 프로젝트  | Computer Vision, OpenCV, Hough Transform |
+| PJ16 | Object Detection Model Speed Test  | YOLO, Object Detection, Speed Comparison |
+| PJ17 | Bearing Image Processing   | OpenCV, Hough Transform, Data Analysis |
+| PJ18 | Bearing Detection Model Train   | YOLO, Object Detection, Deep Learning |
+| PJ19 | Mixed Bearing Detection Project   | YOLO, Object Detection, Hough Circle |
+| PJ20 | Train & Test Dataset Split   | SSIM, Image Processing |
 </div>
